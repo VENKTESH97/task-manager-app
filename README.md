@@ -12,10 +12,10 @@ A simple full-stack task manager built using React (frontend) and Node.js + Expr
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshot
 
-![Homepage Screenshot](https://your-screenshot-link.com)
-*Replace the link above with your actual screenshot URL (e.g., from Imgur)*
+![Task Manager Screenshot](https://i.imgur.com/your-image.png)
+*Replace this with your uploaded screenshot link or remove this section if not needed.*
 
 ---
 
@@ -29,9 +29,8 @@ A simple full-stack task manager built using React (frontend) and Node.js + Expr
 
 ## ⚙️ How to Run Locally
 
-### 🔧 Backend
+### Backend
 ```bash
 cd server
 npm install
 node index.js
-
